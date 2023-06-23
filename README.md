@@ -2,5 +2,6 @@
 
 <h2>Estudo da logica com desenho, animacoes e um jogo </h2>
 
->Estatus do projeto: Em desenvolvimento
+>Estatus do projeto: Completo :)
+
 
